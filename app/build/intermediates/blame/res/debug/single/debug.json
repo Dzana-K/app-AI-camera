@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ellipse_20_shape.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\ellipse_20_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bicycle.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\bicycle.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person1.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\person1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_background.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_background.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-anydpi-v26\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_background.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_car.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\car.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\camera_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dog.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\dog.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_background.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_object_detection.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\activity_object_detection.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo5.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\logo5.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dog1.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\dog1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_car1.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\car1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_register.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\content_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_background_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xhdpi\\background_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_camera_alt_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second2.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\fragment_second2.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_bicycle.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\bicycle.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_arrow_back_ios_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_background_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-hdpi\\background_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_info.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat1.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\cat1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_background_round.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-anydpi-v26\\background_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_data.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\activity_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_background_foreground.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xhdpi\\background_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_background_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-mdpi\\background_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph2.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\navigation\\nav_graph2.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corners31.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\corners31.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_traffic_light1.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\traffic_light1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_background.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xxxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_truck.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\truck.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_background_foreground.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xxhdpi\\background_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first3.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\fragment_first3.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_stop_sign.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\stop_sign.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle_42_shape.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\rectangle_42_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_theme.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\background_theme.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_cats.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\cats.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_edit_location_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\baseline_edit_location_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\cat.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_truck1.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\truck1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_background.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_name_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\baseline_name_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_traffic_light.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\traffic_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_background_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xxxhdpi\\background_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_key_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\baseline_key_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_data.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\content_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second3.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\fragment_second3.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_aaa.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\aaa.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bicycle1.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\bicycle1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_traffic_light.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\traffic_light.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle11.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\rectangle11.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_bar.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\bottom_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph3.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\navigation\\nav_graph3.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle150.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\rectangle150.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_background_foreground.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-mdpi\\background_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_background.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\round_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corners3.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\corners3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_texture_view.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\texture_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_login.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\content_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first2.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\fragment_first2.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_people.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\people.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stop_sign1.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\stop_sign1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_cars.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\cars.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_trucks.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\trucks.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_background_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xxhdpi\\background_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_background.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\background_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_dog.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\layout\\dog.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_background_foreground.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xxxhdpi\\background_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_background_foreground.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\mipmap-hdpi\\background_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_rectangle.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\white_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_button.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\edit_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stop_sign.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CRUZEN1\\app\\src\\main\\res\\drawable\\stop_sign.png"
+    }
+]
